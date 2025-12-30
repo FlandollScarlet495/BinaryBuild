@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+*.egg-info/
+.env
+*.log
+*.pyo
+*.pyd
+*.zip
+*.exe
